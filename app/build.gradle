@@ -31,5 +31,5 @@ dependencies {
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
 
     //driver
-    compile 'com.google.android.things.contrib:driver-rainbowhat:0.8'
+    implementation 'com.google.android.things.contrib:driver-rainbowhat:0.8'
 }
