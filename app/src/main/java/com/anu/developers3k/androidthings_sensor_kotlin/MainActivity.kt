@@ -7,11 +7,9 @@ package com.anu.developers3k.androidthingsrainbowhat_sensor
 import android.app.Activity
 import android.os.Bundle
 import android.os.Handler
-
 import com.google.android.things.contrib.driver.bmx280.Bmx280
 import com.google.android.things.contrib.driver.ht16k33.AlphanumericDisplay
 import com.google.android.things.contrib.driver.rainbowhat.RainbowHat
-
 import java.io.IOException
 
 /**
